@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "302846397602",
+    "project_id": "reactremoteconfig",
+    "storage_bucket": "reactremoteconfig.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302846397602:android:512e1810357aaaf4401bfb",
+        "android_client_info": {
+          "package_name": "com.demoremotconfig"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4N9jIrDJW0RrhihMnDWfcXUUYLtRHvd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
